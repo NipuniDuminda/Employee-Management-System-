@@ -1,5 +1,5 @@
 # Employee-Management-System-
-Java 
+Java, SpringBoot, Thymeleaf, MySQL Database
 
 # Group Members 
 - **[@Yasiru Thanthirige](https://github.com/yasiruat)**
