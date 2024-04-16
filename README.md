@@ -2,7 +2,7 @@
 Java 
 
 # Group Members 
-- **[@johndoe](https://github.com/johndoe)**
+- **[@Yasiru Thanthirige](https://github.com/yasiruat)**
 
 # Employee Management System
 This project is an Employee Management System developed using Spring Boot, Thymeleaf, and MySQL database.
