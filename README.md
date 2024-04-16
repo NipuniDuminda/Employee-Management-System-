@@ -3,6 +3,11 @@ Java
 
 # Group Members 
 - **[@Yasiru Thanthirige](https://github.com/yasiruat)**
+- **[@Nipuni Vithana](https://github.com/NipuniVithana)**
+- **[@lakshitha Perera](https://github.com/lakperera)**
+- **[@Sakuna Dewanarayana](https://github.com/sakunadew99)**
+- **[@Sampath Chathuranga](https://github.com/sampy99)**
+- **[@Yasindu Sanjeewa](https://github.com/YSanj98)**
 
 # Employee Management System
 This project is an Employee Management System developed using Spring Boot, Thymeleaf, and MySQL database.
